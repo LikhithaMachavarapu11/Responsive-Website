@@ -1,0 +1,13 @@
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.tourism-card {
+    text-align: center;
+    background-color: white;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    padding: 15px;
+}
