@@ -1,4 +1,4 @@
-# 🌍 Tourism Explorer - Static Website
+# 🌍 Tourism Explorer - Responsive Website
 
 ## 📌 Overview
 
@@ -22,7 +22,7 @@ Developed using **HTML, CSS** for the **frontend**.
 
 
 ## 🔧 Technologies Used
-- **Frontend:** HTML, CSS, Bootstrap, JavaScript  
+- **Frontend:** Bootstrap, CSS Flexbox
 
 ---
 
