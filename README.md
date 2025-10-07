@@ -4,7 +4,7 @@
 
 **Tourism Explorer** is a website designed for travel enthusiasts **user-friendly**. The platform includes features such as **plan trips, explore destinations and book tours**. 
 
-Developed using **Bootstrap, CSS Flexbox** for the **frontend**.
+Developed using **Bootstrap, Flexbox** for the **frontend**.
 
 
 ---
@@ -22,11 +22,11 @@ Developed using **Bootstrap, CSS Flexbox** for the **frontend**.
 
 
 ## 🔧 Technologies Used
-- **Frontend:** Bootstrap, CSS Flexbox
+- **Frontend:** Bootstrap, Flexbox
 
 ---
 
 
 ## 🖼️ Output of the Project
-https://likhitha444.ccbp.tech/
+https://likhitha111.ccbp.tech/
 
