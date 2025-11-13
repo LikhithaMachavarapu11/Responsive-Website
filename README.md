@@ -6,20 +6,7 @@
 
 Developed using **HTML, CSS, Bootstrap, Flexbox**.
 
-
 ---
-
-## 🚀 Features
-- 🏝 *Attractive Landing Page* – Showcases beautiful travel destinations.
-- 🌍 *Destination Guide* – Detailed information on top places to visit.
-- 🛫 *Trip Planner* – Helps users create personalized itineraries.
-- 🏨 *Booking System* – Enables hotel, flight, and tour reservations.
-- 📝 *Travel Blog* – Provides tips, recommendations, and user experiences.
-- 👤 *User Dashboard* – Allows registered users to manage bookings and itineraries.
-- 📞 *Support & Contact* – Live chat and inquiry forms for assistance.
-
----
-
 
 ## 🔧 Technologies Used
 - **Frontend:** HTML, CSS, Bootstrap, Flexbox
